@@ -14,7 +14,7 @@ from time import sleep
 
 # Настройки бота
 
-bot = telebot.TeleBot('') # токен бота
+bot = telebot.TeleBot('5108669453:AAGuW4xE9QjnzHH27YRb_6xsZ5-NGuqpgjQ') # токен бота
 admin = [1, 2, 3] # ID админов
 support = '' # support без @
 
